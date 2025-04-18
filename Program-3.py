@@ -1,4 +1,5 @@
-#Program-3
+# Name: Sai Ravi Teja Vudathala
+# Program-3
 ''' With a single integer as the input, generate the following until a = x [series of numbers as shown in below examples]
  
   Output: (examples)
